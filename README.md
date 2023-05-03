@@ -4,7 +4,7 @@ Background:
 
 This is a neural network developed from scratch using Python, NumPy and the MNIST dataset that recognizes handwritten digits. This implementation is an educational exercise that is based off of the book "Make Your Own Neural Network" by Tariq Rashid, with the added functionality of saving and loading weights within the neural network.
 
-The training dataset comprises 60,000 records, while the test dataset consists of 10,000 records. After training over five epochs, an accuracy of approximately 95% was achieved.
+The training dataset comprises of 50,000+ records, while the test dataset consists of 10,000 records. After training over five epochs, an accuracy of approximately 95% was achieved.
 
 I implemented additional functionality to preserve the network's weights and subsequently integrate them into another network. By testing this feature on a new neural net, I successfully attained the same level of accuracy as the original neural net.
 
