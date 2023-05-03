@@ -17,7 +17,10 @@ To circumvent issues related to saturation and zero-value weights, the implement
 The notebook is broken down in the following categories:
 
 Defining the Neural Network
+
 Training the Neural Network
+
 Testing the Neural Network
+
 Example Calculations
 
