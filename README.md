@@ -6,7 +6,7 @@ This is a neural network developed from scratch using Python, NumPy and the MNIS
 
 To train my neural network, I used the dataset available at http://www.pjreddie.com/media/files/mnist_train.csv which contains 60,000 images. I used approximately 50,000 images from this dataset to train my NN. The test dataset contains 10,000 records. After five epochs of training, the model achieved an accuracy of about 95%.
 
-I implemented additional functionality to preserve the network's weights and subsequently integrate them into another network. By testing this feature on a new neural net, I successfully attained the same level of accuracy as the original neural net.
+I implemented additional functionality to preserve the network's weights and subsequently integrated them into another network. By testing this feature on a new neural net, I successfully attained the same level of accuracy as the original neural net.
 
 **Architecture details**:
 
