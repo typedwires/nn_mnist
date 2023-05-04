@@ -22,5 +22,9 @@ Training the Neural Network
 
 Testing the Neural Network
 
+Defining a new Neural Network and loading saved weights
+
+Testing the new Neural Network with the saved weights
+
 Example Calculations
 
