@@ -16,9 +16,7 @@ To circumvent issues related to saturation and zero-value weights, the implement
 
 **Training Data**:
 
-For training my neural network, I used the dataset available at http://www.pjreddie.com/media/files/mnist_train.csv, which contains 60,000 images. 
-
-However, I only trained my NN using around 50,000 images from this dataset.
+For training my neural network, I used the dataset available at http://www.pjreddie.com/media/files/mnist_train.csv, which contains 60,000 images. However, I trained my NN using around 50,000 images from this dataset.
 
 **The notebook is organized into the following sections:**:
 
