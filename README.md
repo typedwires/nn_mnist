@@ -14,7 +14,7 @@ The architecture comprises a three-layer neural network with 784 input nodes, 20
 
 To circumvent issues related to saturation and zero-value weights, the implementation incorporates certain assumptions about the network. For weight initialization, the code samples from a normal distribution with a mean of zero and a standard deviation equal to the inverse of the square root of the number of links into a node. The network employs the sigmoid activation function and the L2 loss function. Backpropagation is used to minimize errors within the weights.
 
-**TThe notebook is organized into the following sections:**:
+**The notebook is organized into the following sections:**:
 
 Defining the Neural Network
 
