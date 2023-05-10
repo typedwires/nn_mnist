@@ -12,7 +12,7 @@ I implemented additional functionality to preserve the network's weights and sub
 
 The architecture comprises a three-layer neural network with 784 input nodes, 200 hidden nodes, and 10 output nodes, using a learning rate of 0.01.
 
-To circumvent issues related to saturation and zero-value weights, the implementation incorporates certain assumptions about the network. For weight initialization, the code samples from a normal distribution with a mean of zero and a standard deviation equal to the inverse of the square root of the number of links into a node. The network employs the sigmoid activation function and the L2 loss function. Backpropagation is used to minimize errors within the weights.
+To circumvent issues related to saturation and zero-value weights, the implementation incorporates certain assumptions about the network. For weight initialization, the code samples from a normal distribution with a mean of zero and a standard deviation equal to the inverse of the square root of the number of links into a node. The network employs the sigmoid activation function and the square of the difference loss function. Backpropagation is used to minimize errors within the weights.
 
 
 **The notebook is organized into the following sections:**:
